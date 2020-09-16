@@ -48,13 +48,13 @@ textarea{
 }
 
 .present {
-  background-color: pink;
+  background-color: palevioletred;
   color: white;
  
 }
 
 .future {
-  background-color: greenyellow;
+  background-color: rgb(140, 228, 9);
   color: white;
 }
 

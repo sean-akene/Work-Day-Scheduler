@@ -48,12 +48,13 @@ textarea{
 }
 
 .present {
-  background-color: pink
-  color: white
+  background-color: pink;
+  color: white;
+ 
 }
 
 .future {
-  background-color: greenyellow
+  background-color: greenyellow;
   color: white;
 }
 
@@ -68,8 +69,4 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
-}
-
-.display-3{
-color: black
 }

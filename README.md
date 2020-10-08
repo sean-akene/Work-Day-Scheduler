@@ -9,6 +9,7 @@ areas where tasks and activites can be written down. The application also featur
 area which allows the user to save each task that has been recorded. The tasks are saved in the local storage thus the page can be refreshed without affecting them. The iput area is color coded with green indicating future
 times, pink indicating the current time, and gray indicating past times. Please See the link below for a demo of the application. 
 [Work Day Scheduler](https://sean-akene.github.io/Work-Day-Scheduler/)
+![](Images/Wrk%20Scheduler.jpg)
 
 ## Usage  
 To record a task, simply enter it into the input area, and click on the blue save icon to the right to save it. Tasks color-coded in green are not due yet. 
